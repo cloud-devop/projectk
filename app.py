@@ -1,4 +1,4 @@
-import json
+import aws
 import boto3
 
 def lambda_handler[event, context]:
